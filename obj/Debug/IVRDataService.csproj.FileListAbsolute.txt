@@ -1,0 +1,7 @@
+c:\users\dtobaran\documents\visual studio 2012\Projects\IVRDataService\IVRDataService\bin\IVRDataService.dll
+c:\users\dtobaran\documents\visual studio 2012\Projects\IVRDataService\IVRDataService\bin\IVRDataService.pdb
+c:\users\dtobaran\documents\visual studio 2012\Projects\IVRDataService\IVRDataService\obj\Debug\IVRDataService.dll
+c:\users\dtobaran\documents\visual studio 2012\Projects\IVRDataService\IVRDataService\obj\Debug\IVRDataService.pdb
+C:\Users\dtobaran\documents\visual studio 2012\Projects\IVRDataService\IVRDataService\bin\StackExchange.Redis.dll
+C:\Users\dtobaran\documents\visual studio 2012\Projects\IVRDataService\IVRDataService\bin\StackExchange.Redis.pdb
+C:\Users\dtobaran\documents\visual studio 2012\Projects\IVRDataService\IVRDataService\bin\StackExchange.Redis.xml
